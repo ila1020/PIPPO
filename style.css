@@ -1,12 +1,9 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color:pink;
-  background-image: url(noise.png);
 }
 
-canvas {
-  display: block;
-}
+
+
 
 
