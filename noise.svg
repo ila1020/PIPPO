@@ -1,5 +1,5 @@
 <!-- svg: first layer -->
-<svg max-widht="100%" xmlns='http://www.w3.org/2000/svg'>
+<svg max-width="100%" xmlns='http://www.w3.org/2000/svg'>
   <filter id='noiseFilter'>
     <feTurbulence 
       type='fractalNoise' 
